@@ -1,15 +1,15 @@
-DNS
+# DNS #
 
 The Domain Name System (aka DNS) is used to resolve human-readable hostnames like www.Dyn.com into machine-readable IP addresses like 204.13.248.115. DNS also provides other information about domain names, such as mail services.
 
-But why is DNS important? How does it work? What else should you know?
+# But why is DNS important? How does it work? What else should you know? #
 
-Why is DNS important?
+# Why is DNS important? #
 DNS is like a phone book for the Internet. If you know a person’s name but don’t know their telephone number, you can simply look it up in a phone book. DNS provides this same service to the Internet.
 
 When you visit http://dyn.com in a browser, your computer uses DNS to retrieve the website’s IP address of 204.13.248.115. Without DNS, you would only be able to visit our website (or any website) by visiting its IP address directly, such as http://204.13.248.115.
 
-How does DNS work?
+# How does DNS work? #
 What is DNS? - DNS Flow Chart
 When you visit a domain such as dyn.com, your computer follows a series of steps to turn the human-readable web address into a machine-readable IP address. This happens every time you use a domain name, whether you are viewing websites, sending email or listening to Internet radio stations like Pandora.
 
